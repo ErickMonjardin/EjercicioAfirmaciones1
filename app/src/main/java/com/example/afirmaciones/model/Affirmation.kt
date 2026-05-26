@@ -1,4 +1,4 @@
-package com.example.colores.model
+package com.example.afirmaciones.model
 
 data class Affirmation(
     val stringResourceId: Int,

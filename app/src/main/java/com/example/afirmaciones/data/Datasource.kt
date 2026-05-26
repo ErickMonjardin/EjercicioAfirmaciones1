@@ -1,7 +1,7 @@
-package com.example.colores.data
+package com.example.afirmaciones.data
 
-import com.example.colores.R
-import com.example.colores.model.Affirmation
+import com.example.afirmaciones.R
+import com.example.afirmaciones.model.Affirmation
 class Datasource {
     fun loadAffirmations(): List<Affirmation> {
         return listOf(

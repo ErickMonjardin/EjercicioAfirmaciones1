@@ -1,4 +1,4 @@
-package com.example.colores.ui.theme
+package com.example.afirmaciones.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

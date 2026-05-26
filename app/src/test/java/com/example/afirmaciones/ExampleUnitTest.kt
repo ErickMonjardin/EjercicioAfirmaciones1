@@ -1,4 +1,4 @@
-package com.example.colores
+package com.example.afirmaciones
 
 import org.junit.Test
 

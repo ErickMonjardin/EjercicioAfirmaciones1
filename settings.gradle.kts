@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Colores"
+rootProject.name = "Afirmaciones"
 include(":app")
  

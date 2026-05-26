@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.colores"
+    namespace = "com.example.afirmaciones"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.colores"
+        applicationId = "com.example.afirmaciones"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
