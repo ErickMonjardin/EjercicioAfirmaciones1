@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Colores</string>
+    <string name="affirmation1">Color rojo</string>
+    <string name="affirmation2">Color azul</string>
+    <string name="affirmation3">Color verde</string>
+    <string name="affirmation4">Color amarillo</string>
+    <string name="affirmation5">Color morado</string>
+    <string name="affirmation6">Color naranja</string>
+    <string name="affirmation7">Color negro</string>
+    <string name="affirmation8">Color blanco</string>
+    <string name="affirmation9">Color platiado</string>
+    <string name="affirmation10">Color gris</string>
+    <string name="affirmation11">Color rosa</string>
+    <string name="affirmation12">Color cafe</string>
+    <string name="affirmation13">Color turquesa</string>
+</resources>
