@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">Colores</string>
-    <string name="affirmation1">Color rojo</string>
-    <string name="affirmation2">Color azul</string>
-    <string name="affirmation3">Color verde</string>
-    <string name="affirmation4">Color amarillo</string>
-    <string name="affirmation5">Color morado</string>
-    <string name="affirmation6">Color naranja</string>
-    <string name="affirmation7">Color negro</string>
-    <string name="affirmation8">Color blanco</string>
-    <string name="affirmation9">Color platiado</string>
-    <string name="affirmation10">Color gris</string>
-    <string name="affirmation11">Color rosa</string>
-    <string name="affirmation12">Color cafe</string>
-    <string name="affirmation13">Color turquesa</string>
+    <string name="app_name">Afirmaciones</string>
+    <string name="affirmation1">Soy fuerte</string>
+    <string name="affirmation2">Soy inteligente</string>
+    <string name="affirmation3">El dia sera mejor</string>
+    <string name="affirmation4">Algo bueno pasara</string>
+    <string name="affirmation5">Algo bueno vendra</string>
+    <string name="affirmation6">Todo saldra bien</string>
+    <string name="affirmation7">Esperanza</string>
+    <string name="affirmation8">Cada dia es una oportunidad</string>
+    <string name="affirmation9">Sigue adelante</string>
+    <string name="affirmation10">Soy valiente</string>
+    <string name="affirmation11">Soy feliz</string>
+    <string name="affirmation12">Soy hermoso</string>
+    <string name="affirmation13">Me amo</string>
 </resources>

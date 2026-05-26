@@ -16,8 +16,6 @@ class Datasource {
             Affirmation(R.string.affirmation8, R.drawable.image8),
             Affirmation(R.string.affirmation9, R.drawable.image9),
             Affirmation(R.string.affirmation10, R.drawable.image10),
-
-            // MÁS TARJETAS
             Affirmation(R.string.affirmation11, R.drawable.image1),
             Affirmation(R.string.affirmation12, R.drawable.image2),
             Affirmation(R.string.affirmation13, R.drawable.image3)
